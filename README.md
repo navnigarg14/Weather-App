@@ -46,4 +46,4 @@ A simple and clean Weather App built using **HTML**, **CSS**, and **JavaScript**
 
 ## 🙋‍♀️ Author
 **Navni Garg**
-📧 [LinkedIn](www.linkedin.com/in/navnigarg14)
+📧 [LinkedIn](https://www.linkedin.com/in/navnigarg14/)
